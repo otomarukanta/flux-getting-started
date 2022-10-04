@@ -13,7 +13,7 @@ spec:
     path: chart
     ref: master
   values:
-    replicaCount: 3
+    replicaCount: 2
     image:
       repository: okteto/hello-world
       tag: golang
