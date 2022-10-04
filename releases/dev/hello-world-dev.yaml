@@ -16,4 +16,4 @@ spec:
     replicaCount: 2
     image:
       repository: okteto/hello-world
-      tag: golang
+      tag: 1.0.0
